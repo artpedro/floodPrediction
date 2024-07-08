@@ -14,7 +14,7 @@ In this project, I tackle the flood prediction problem using various machine lea
 
 ## Dataset
 
-The dataset used in this project is sourced from the Kaggle competition on flood prediction. It contains historical weather data, river levels, and other relevant features. You can find the dataset [here](https://www.kaggle.com/competitions/flood-prediction).
+The dataset used in this project is sourced from the Kaggle competition on flood prediction. It contains historical weather data, river levels, and other relevant features. You can find the dataset [here](https://www.kaggle.com/competitions/playground-series-s4e5/data).
 
 ## Usage
 
